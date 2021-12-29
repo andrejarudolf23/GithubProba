@@ -28,6 +28,7 @@ public class ProbaGithub {
         System.out.println("Prvi broj: " + first);
         System.out.println("Drugi broj: " + second);
         System.out.println("Zbir je: " + total);
+        System.out.println("Final change");
     }
     
 }
